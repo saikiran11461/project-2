@@ -6,7 +6,7 @@
   padding: 0;
 }
 body {
-  background: url("https://cdn.pixabay.com/photo/2020/05/05/07/00/coffee-beans-5131729__340.jpg")
+  background: url("http://tfgms.com/sandbox/dailyui/bg-1.jpg")
     center no-repeat;
   background-size: cover;
   color: #333;
@@ -64,6 +64,7 @@ form button.submit {
   padding: 0.5em 0.5em;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
+  border-radius: 20px;
 }
 form button:hover,
 form button:focus,
@@ -103,6 +104,7 @@ form button span.loading-spinner {
   display: inline-block;
   height: 1em;
   width: 1em;
+  
 }
 
 form label {

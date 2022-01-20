@@ -11,6 +11,7 @@ body {
   color: #333;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
+ 
 }
 .container {
   border-radius: 0.5em;
@@ -57,11 +58,12 @@ body {
 }
 form button.submit {
   background: rgba(255, 255, 255, 0.25);
-  border: 1px solid #333;
+  border: 2px solid #333;
   line-height: 1em;
   padding: 0.5em 0.5em;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
+  border-radius: 20px;
 }
 form button:hover,
 form button:focus,

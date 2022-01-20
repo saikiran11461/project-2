@@ -6,6 +6,10 @@
 
 body {
   background-color: #d7f7ff;
+  /* background-image: url(https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNyZWRpdCUyMGNhcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60); */
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
   font-family: Arial, Helvetica, sans-serif;
 }
 
